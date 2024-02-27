@@ -37,6 +37,10 @@ Feature: cucumber template
       | name6 |     5 | Fail    |
 			| name7 |     8 | success |
       | name8 |     9  | Fail   |
-		  | name9 |     2 | success |
+	| name9 |     2 | success |
       | name10|     5 | Fail    |
+	| name11|     5 | Fail    |
+	| name12|     5 | Fail    |
+	| name13|     5 | Fail    |		
+			
 			
