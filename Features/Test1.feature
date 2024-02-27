@@ -20,12 +20,6 @@
 Feature: cucumber template
   I want to use this template for my feature file
 
-  @tag1
-  Scenario: Title of your scenario
-    Given i enter username and password
-    And click on login
-    When display dashboard
-    
     
       @tag2
   Scenario Outline: Title of your scenario outline
@@ -37,3 +31,8 @@ Feature: cucumber template
       | name  | value | status  |
       | name1 |     5 | success |
       | name2 |     7 | Fail    |
+	  | name3 |     8 | success |
+      | name4 |     9  | Fail   |
+	  | name5 |     2 | success |
+      | name6 |     5 | Fail    |
+			
